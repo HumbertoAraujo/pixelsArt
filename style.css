@@ -8,19 +8,24 @@
     width: max-content;
     border-radius: 5px;
     padding: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
 }
 body{
     background-image: url(https://img1.picmix.com/output/stamp/normal/2/6/0/7/967062_12fe6.gif);
-    background-size: cover; 
+    background-size: cover;     
 }
 
 #color-palette {    
     width: fit-content;
     padding: 0px;
+    margin-top: 1%;
 }
 .center {
-    margin-left: 35%;
-    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
 }
 .color {
     border: black solid 1px;
@@ -48,16 +53,19 @@ body{
     line-height: 0;
     border-style: outset;
     border-width: 5px;
+    margin-left: auto;
+    margin-right: auto;    
 }
 
 section {
     
     width: max-content;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #board-size{
     width: 100px;
-    text-align: center;    
 }
 .buttons{
     border-radius: 5px;
