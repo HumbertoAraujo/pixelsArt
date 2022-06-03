@@ -1,27 +1,3 @@
-# Boas-vindas ao repositório do projeto Arte com Pixels!
-
-
-  <summary><strong>🏗 Como estruturar seu projeto</strong></summary>
-
-- Implemente uma paleta de cores usando `javascript`, `css` e `html`;
-
-- Crie os arquivos `index.html`, `style.css` e `script.js`, que conterão seu código HTML, CSS e JavaScript, respectivamente;
-
-:warning: **É importante que seus arquivos tenham exatamente estes nomes!** :warning:
-
-- Você pode adicionar outros arquivos se julgar necessário. Caso tenha alguma dúvida, poste no _Slack_;
-
- ⚠️ ** Recomenda-se que você desenvolva seu projeto com a resolução de tela  de `1366 x 768`, a mesma que será utilizada pelo avaliador. Para facilitar a configuração da resolução, use este [plugin do `Chrome`](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en).** ⚠️
-
-* Caso seu projeto contenha imagens, ⚠️ **Atenção**:
-  * Não utilize arquivos maiores que _500Kb_;
-  * Utilize uma ferramenta como [esta](https://picresize.com/pt) para redimensionar as imagens.
-
-* Você tem liberdade para implementar novos comportamentos ao seu projeto, seja na forma de aperfeiçoamentos em requisitos propostos ou novas funcionalidades, mas atente-se para **não conflitar com os requisitos propostos**. 
-
-</details>
-
-
 # Requisitos Obrigatórios
 :warning: **Leia todos os requisitos atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_  e _classes_ que alguns elementos de seu projeto devem possuir**. Não troque `ids` por `classes` ou vice-versa** :warning:
 
